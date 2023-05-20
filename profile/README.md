@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://github.com/understanding-astro/understanding-astro-book/tree/master" target="_blank">
      Read the book
   </a> 
-</h2>
+</h1>
