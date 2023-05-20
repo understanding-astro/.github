@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="_blank" href="http://ohans.me/understanding-astro">
-    <img src="https://i.imgur.com/jARsawT.png" alt="Understanding Astro book cover" title="Understanding Astro" width="75%">
+    <img src="https://i.imgur.com/uHPiEQw.png" alt="Understanding Astro book cover" title="Understanding Astro" width="75%">
   </a>
 </h1>
 
