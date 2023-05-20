@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-<h2>
+<h2 align="center">
   <a href="https://github.com/understanding-astro/understanding-astro-book/tree/master" target="_blank">
-     Start building faster websites with Astro's next-generation island architecture ✨
+     Read the book
   </a> 
 </h2>
